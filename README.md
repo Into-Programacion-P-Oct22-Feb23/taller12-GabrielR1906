@@ -1,5 +1,5 @@
 # Taller12
-
+Grupo: Renato Rojas - Dara Van Gijsel
 ## Problemáticas
 
 #### Fin respuesta
